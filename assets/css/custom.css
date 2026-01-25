@@ -1,0 +1,10 @@
+/* 添加表格竖线 */
+article table {
+  border-collapse: collapse;
+}
+
+article table td, 
+article table th {
+  border: 1px solid #A9A9A9; /* 添加所有边框 */
+  padding: 4px 4px;
+}
