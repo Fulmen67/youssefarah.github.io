@@ -12,11 +12,9 @@ postnominals:
   - MBA
   - MSc
 status:
-  icon: "☕️"
+  icon: "🤖"
 role: Robotics & Computer Vision Engineer
-bio: Robotics & computer vision engineer working on neuromorphic perception,
-  event-based vision, and autonomous systems, with a business background from
-  an MBA focused on technological innovation.
+bio: Robotics & computer vision engineer focused on perception for autonomous drones, with hands-on experience in event-based vision, neuromorphic sensing, and high-speed robotic systems, and a business background from a merit-based MBA in technological innovation.
   
 
 affiliations:
@@ -26,17 +24,17 @@ affiliations:
 links:
   - icon: envelope
     url: farah99removeme@icloud.com
-    label: idk
+    label: E-mail
   - icon: academicons/google-scholar
     icon_pack: ai
     url: https://scholar.google.com/citations?user=sL4rkbUAAAAJ&hl=en
-    label: idk
+    label: Scholar
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/youssefarah/
-    label: 看看我的博客吧！
+    label: LinkedIn
   - icon: brands/github
     url: https://github.com/fulmen67 
-    label: Follow me！
+    label: Github
 
 interests:
   - Robotics & Autonomous Systems
