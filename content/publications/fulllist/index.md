@@ -3,7 +3,7 @@
 
 title: "Please refer to the following link for the full list of publications"
 authors: 
-- admin
+- Youssef
 date: 2024-11-17T18:00:43+08:00
 doi: ""
 
@@ -39,7 +39,7 @@ featured: false
 
 links:
 - name: Full list publications
-  url: https://dblp.org/pid/205/7811.html
+  url: https://scholar.google.com/citations?user=sL4rkbUAAAAJ&hl=en
 url_pdf: 
 url_code:
 url_dataset:
@@ -72,4 +72,4 @@ projects: []
 slides: ""
 ---
 
-Please refer to the following link: [full list of publications](https://dblp.org/pid/205/7811.html)
+Please refer to the following link: [full list of publications](https://scholar.google.com/citations?user=sL4rkbUAAAAJ&hl=en)

@@ -4,35 +4,35 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 主页
+  - name: Home
     url: /
     weight: 10
-  - name: 新闻
-    url: /#news
+  - name: Projects
+    url: projects/
     weight: 11
-  - name: 论文
+  - name: Publications
     url: /#publications
     weight: 12
-  - name: 项目
-    url: projects/
+  - name: News
+    url: /#news
     weight: 13
-  - name: 指导学生
-    url: students/
-    weight: 14
-  - name: 教学
-    url: courses/
-    weight: 15
-  - name: 操作系统
-    parent: 教学
-    url: courses/operatingsystem
-    weight: 10  
-  - name: 大数据存储
-    parent: 教学
-    url: courses/bigdatastorage
-    weight: 11
-  - name: 学术资源
-    url: library/
-    weight: 16
-  - name: 联系方式
+  # - name: Students
+  #   url: students/
+  #   weight: 14
+  # - name: Courses
+  #   url: courses/
+  #   weight: 15
+  # - name: Operating Systems
+  #   parent: Teaching
+  #   url: courses/operatingsystem
+  #   weight: 10  
+  # - name: Big Data Storage
+  #   parent: Teaching
+  #   url: courses/bigdatastorage
+  #   weight: 11
+  # - name: Academic Resources
+  #   url: library/
+    # weight: 16
+  - name: Contact
     url: /#contact
     weight: 17

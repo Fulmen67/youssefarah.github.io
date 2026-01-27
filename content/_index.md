@@ -39,18 +39,15 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 研究方向'
+      title: '📚 About Me'
       subtitle: ''
-      text: |-
-        - 本课题组研究包括深度学习、联邦学习、机器学习、模型压缩、隐私保护、知识蒸馏、边缘智能、机器视觉、智能审计等领域，解决图像处理、大模型中模型的效率、安全、存储等问题，在智慧交通，智慧医疗等场景中应用。同时鼓励学生结合自身兴趣及特长，进行个性化探索。
-
-        - 欢迎对科研训练感兴趣的研究生及本科生与我联系，探索可以落地应用的科学研究。<u>已指导学生情况请点击：</u> <a href="students" style="font-weight: bold;">学生成果</a>
+      text: I build high-speed perception and localization pipelines for robots and autonomous platforms, with a focus on event-based vision, neuromorphic localization, and LiDAR/IMU odometry. I enjoy working at the intersection of deep tech and strategy – turning research into deployed systems for aerospace manufacturing, autonomous racing, and beyond.
     design:
       columns: '1'
   - block: collection
     id: news
     content:
-      title: 最新动态
+      title: News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -86,15 +83,10 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: '📚 学术服务'
+      title: '📚 Conferences'
       subtitle: ''
       text: |-
-        - ACM International Conference on Multimedia (CCF A) 审稿服务
-        - International Conference on Machine Learning (CCF A) 审稿服务
-        - Computer Networks (CCF B)，优秀审稿人
-        - Information Processing and Management (CCF B)审稿服务
-        - The journal of supercomputing (CCF C)审稿服务
-        - 国际标准化组织ISO/TC295“审计数据采集标准”中国专家组成员     
+        - CVPR 2025 Workshop on Event-based Vision   
     design:
       columns: '1'
 #  - block: collection
@@ -110,11 +102,11 @@ sections:
   - block: contact-info
     id: contact
     content:
-      title: 联系方式
+      title: Contact
       subtitle: "Let's build something amazing together"
       text: |-
-        如果您对我们的工作内容感兴趣或想加入我们，欢迎随时与我取得联系！办公地点：江苏省南京市浦口区南京审计大学致明楼222办公室，工作时间：周一到周五 09:00 至 17:00。
-      email: ffshen@nau.edu.cn
+        If you are interested in collaborating, contact me!
+      email: farah99removeme@icloud.com
       autolink: true
     design:
       columns: '1'
