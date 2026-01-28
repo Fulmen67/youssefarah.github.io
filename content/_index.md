@@ -41,7 +41,7 @@ sections:
     content:
       title: '📚 About Me'
       subtitle: ''
-      text: I build high-speed perception and localization pipelines for robots and autonomous platforms, with a focus on event-based vision, neuromorphic localization, and LiDAR/IMU odometry. I enjoy working at the intersection of deep tech and strategy – turning research into deployed systems for aerospace manufacturing, autonomous racing, and beyond.
+      text: I build high-speed perception and localization pipelines for robots and autonomous platforms, with a focus on high-speed and low latency vision and localization in real-time. I enjoy working at the intersection of deep tech and strategy, turning research into deployed systems for autonomous mobility.
     design:
       columns: '1'
   - block: collection
